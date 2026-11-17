@@ -7,7 +7,7 @@ Project engineering, commissioning support, and techno-commercial work in the po
 - Email: [ayushsomaiya123@gmail.com](mailto:ayushsomaiya123@gmail.com)
 - Phone: +91 78875 94999
 - GitHub: [github.com/somaiya123](https://github.com/somaiya123)
-- LinkedIn: [Add your LinkedIn profile](#)
+- LinkedIn: [Ayush Somaiya](https://www.linkedin.com/in/ayush-somaiya-a1947023b/)
 - Location: Jalgaon, Maharashtra
 
 ---
@@ -89,5 +89,6 @@ Open to project engineering, commissioning, and techno-commercial roles in the p
 
 - Email: [ayushsomaiya123@gmail.com](mailto:ayushsomaiya123@gmail.com)
 - Phone: +91 78875 94999
+- LinkedIn: [Ayush Somaiya](https://www.linkedin.com/in/ayush-somaiya-a1947023b/)
 
 Built by Ayush Somaiya · [ayushsomaiya123@gmail.com](mailto:ayushsomaiya123@gmail.com)
